@@ -1,1 +1,2 @@
 1. membuat file2 di local
+2. baris ini dibuat di local
