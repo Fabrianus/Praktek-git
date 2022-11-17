@@ -1,3 +1,4 @@
 1. membuat file2 di local
 2. baris ini dibuat di local
 3. baris ini di buat di remote
+4. baris ini di buat di lokal
